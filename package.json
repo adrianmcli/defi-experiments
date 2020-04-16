@@ -1,0 +1,31 @@
+{
+  "name": "defi-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianmcli/defi-experiments.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianmcli/defi-experiments/issues"
+  },
+  "homepage": "https://github.com/adrianmcli/defi-experiments#readme",
+  "devDependencies": {
+    "@studydefi/money-legos": "^1.0.12",
+    "@types/jest": "^25.2.1",
+    "@types/node": "^13.11.1",
+    "dotenv": "^8.2.0",
+    "ethers": "^4.0.46",
+    "ganache-core": "^2.10.2",
+    "jest": "^25.3.0",
+    "ts-jest": "^25.3.1",
+    "typescript": "^3.8.3"
+  }
+}
